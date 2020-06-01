@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path: ''
+webhook_url: https://terrasa-test.netlify.com
 sections:
 - type: directory
   path: exampleSite/content
